@@ -14,6 +14,7 @@ Documentation
 -----------------  
 This example uses fstorage module to erase a flash page, write two words to the flash page and then read the flash contents. Results are printed on UART. The UART printout is shown below
 
+![Alt text](./Capture - fstorage example UART output SDK 11.JPG?raw=true "fstorage_example_simple output")
 
 To see the UART output, a UART terminal (e.g. Realterm) can be configured on your PC with the UART configuration shown below
 
