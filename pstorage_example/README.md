@@ -14,6 +14,7 @@ Documentation
 -----------------  
 This example uses pstorage module to perform various flash operations, i.e. pstorage_store, pstorage_clear, pstorage_load and pstorage_update. Results are printed on UART. The UART printout is shown below
 
+![Alt text](./Capture - pstorage example UART output SDK 11.JPG?raw=true "pstorage_example output")
 
 To see the UART output, a UART terminal (e.g. Realterm) can be configured on your PC with the UART configuration shown below
 
