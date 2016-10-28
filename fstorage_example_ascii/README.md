@@ -8,7 +8,7 @@ Requirements
 - nRF5 SDK version 11.0.0
 - nRF52-DK with S132 2.0.1 or nRF51-DK with S130 2.0.1
 
-To compile it, clone the repository in the \nRF5_SDK_11.0.0_89a8197\examples\ble_peripheral\ folder.  If you download the zip, place the saadc_low_power folder into the \nRF5_SDK_11.0.0_89a8197\examples\peripheral\ folder.
+To compile it, clone the repository in the \nRF5_SDK_11.0.0_89a8197\examples\ble_peripheral\ folder.  If you download the zip, place the fstorage_example_ascii folder into the \nRF5_SDK_11.0.0_89a8197\examples\peripheral\ folder.
 
 Documentation
 -----------------  
