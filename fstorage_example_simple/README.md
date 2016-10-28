@@ -18,7 +18,7 @@ This example uses fstorage module to erase a flash page, write two words to the 
 
 To see the UART output, a UART terminal (e.g. Realterm) can be configured on your PC with the UART configuration shown below
 
-![Alt text](../Capture - UART settings flash examples.JPG?raw=true "fstorage_example_simple output")
+![Alt text](../Capture - UART settings flash examples.JPG?raw=true "UART configuration")
 
 About this project
 ------------------
