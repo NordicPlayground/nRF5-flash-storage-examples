@@ -1,4 +1,4 @@
-# nRF5x-fds-example
+fds-example
 Simple example for Flash Data Storage
 Requirements
 ------------
@@ -14,9 +14,11 @@ Documentation
 -----------------  
 This example uses fds module to store data in internal flash memory. Results are printed on UART. The UART printout is shown below
 
+![Alt text](./Capture - fds example UART output SDK 11.JPG?raw=true "fds-example output")
 
 To see the UART output, a UART terminal (e.g. Realterm) can be configured on your PC with the UART configuration shown below
 
+![Alt text](../Capture - UART settings flash examples.JPG?raw=true "UART configuration")
 
 About this project
 ------------------
