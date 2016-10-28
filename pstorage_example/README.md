@@ -17,7 +17,7 @@ This example uses pstorage module to perform various flash operations, i.e. psto
 
 To see the UART output, a UART terminal (e.g. Realterm) can be configured on your PC with the UART configuration shown below
 
-
+![Alt text](../Capture - UART settings flash examples.JPG?raw=true "UART configuration")
 
 About this project
 ------------------
